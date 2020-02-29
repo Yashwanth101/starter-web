@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Adding New Section
 
 Data entered in the new section
+
+##Adding Another new section
+
+Data entered in the Another new section
