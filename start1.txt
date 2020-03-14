@@ -2,3 +2,4 @@ Rebasing example done by YK on Master branch
 Rebasing example done by YK on myfeature branch too..
 Creating a new text file 
 Rebasing example in myfeature
+Second line in myfeature file
